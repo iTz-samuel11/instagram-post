@@ -1,0 +1,46 @@
+
+body{
+    background: black;
+    margin-top: 10px;;
+}
+.instagram-post{
+    background: white;
+    width: 500px;
+    height: 700px;
+}
+.instagram-headed{
+    display:flex;
+    margin:5px;
+}
+.perfil{
+    text-align: center;
+}
+.name{
+    width:490px;
+    height:auto;
+}
+.menu{
+    caption-side:right;
+    padding:5px;
+}
+h4{
+    margin:5px;
+}
+.apellido{
+    margin:5px;
+}
+.instagram-bajo{
+    margin:5px;
+}
+.menu-interactivo{
+    display:flex;
+}
+.left{
+    width:450px;
+}
+.likes-personas{
+    font-size: 18px;
+}
+.apellido{
+    font-size:17px;
+}
